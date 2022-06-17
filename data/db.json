@@ -1,0 +1,28 @@
+{
+  "blogs": [
+    {
+      "title": "My First Blog",
+      "body": "Why do we use it?",
+      "author": "mario",
+      "id": 1
+    },
+    {
+      "title": "React",
+      "body": "React is so much better than vanilla JS",
+      "author": "yoshi",
+      "id": 3
+    },
+    {
+      "title": "React MVP",
+      "body": "I think I will be making a blog page for my React MVP",
+      "author": "mario",
+      "id": 4
+    },
+    {
+      "title": "This is another test",
+      "body": "Testing history.push",
+      "author": "mario",
+      "id": 6
+    }
+  ]
+}
